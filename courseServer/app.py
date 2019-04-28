@@ -7,6 +7,16 @@ app = Flask(__name__, static_url_path='')
 
 json_path = '../files/data.json'
 
+@app.route('/update_c', methods=['POST'])
+def update_c():
+    course = request.get_json()
+    db_json = fun.getJsonDataFromFile(json_path)
+    for i in range(len(db_json['people'])):
+        if 'python' not in db_json['people'][i]['programs']:
+            db_json['people'][i]['programs'].append(course['programs'])
+    print(db_json)
+    fun.writeToJson(json_path, db_json)
+    return 'yap'
 
 @app.route('/', methods=['GET'])  # GET requests
 def hello_world():
