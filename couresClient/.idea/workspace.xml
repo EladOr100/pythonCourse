@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc4142b7-556a-4fb2-98e5-625b31d2093f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../courseServer/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restRequests/getRequests.py" beforeDir="false" afterPath="$PROJECT_DIR$/restRequests/getRequests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../courseServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../courseServer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseServer/application/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseServer/files/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../courseServer/files/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseServer/files/person.json" beforeDir="false" afterPath="$PROJECT_DIR$/../courseServer/files/person.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseServer/helpFunctions/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../courseServer/helpFunctions/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ptt/python rest.PPTX" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +19,7 @@
     <session id="619632137">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="1" />
@@ -128,9 +120,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2149" />
+    <option name="y" value="-14" />
     <option name="width" value="1936" />
     <option name="height" value="1176" />
   </component>
@@ -284,7 +276,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1176" extended-state="7" />
+    <frame x="-1928" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20575693" />
