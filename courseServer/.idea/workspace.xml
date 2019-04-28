@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c65068eb-0194-4151-9df3-88229bba9def" name="Default Changelist" comment="">
+    <list default="true" id="c65068eb-0194-4151-9df3-88229bba9def" name="Default Changelist" comment="add func">
       <change beforePath="$PROJECT_DIR$/../couresClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../couresClient/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -54,24 +54,25 @@
     <session id="-893323320">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="2" />
           <entry key="json" value="3" />
-          <entry key="py" value="10" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
           <entry key="JSON" value="3" />
-          <entry key="Python" value="10" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -95,14 +96,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="408">
+              <caret line="18" lean-forward="true" selection-end-line="90" />
               <folding>
                 <element signature="e#0#61#0" expanded="true" />
-                <element signature="e#294#314#0" />
                 <marker date="1554983778395" expanded="true" signature="1804:1848" ph="..." />
                 <marker date="1554983778395" expanded="true" signature="2061:2631" ph="..." />
                 <marker date="1554983778395" expanded="true" signature="2473:2631" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helpFunctions/functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="4" selection-end-line="38" />
+              <folding>
+                <marker date="1552924481325" expanded="true" signature="161:162" ph="..." />
+                <marker date="1552924481325" expanded="true" signature="491:861" ph="..." />
               </folding>
             </state>
           </provider>
@@ -161,8 +174,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-29" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1176" />
   </component>
@@ -330,13 +344,21 @@
       <option name="project" value="LOCAL" />
       <updated>1556425136742</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add func">
+      <created>1556425366870</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556425366870</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13059701" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13272922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -488,35 +510,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helpFunctions/functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding>
-            <marker date="1552924481325" expanded="true" signature="161:162" ph="..." />
-            <marker date="1552924481325" expanded="true" signature="491:861" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/files/data.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
           <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-            <element signature="e#294#314#0" />
-            <marker date="1554983778395" expanded="true" signature="1804:1848" ph="..." />
-            <marker date="1554983778395" expanded="true" signature="2061:2631" ph="..." />
-            <marker date="1554983778395" expanded="true" signature="2473:2631" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -531,6 +528,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25353">
           <caret line="963" column="8" selection-start-line="963" selection-start-column="8" selection-end-line="963" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpFunctions/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="4" selection-end-line="38" />
+          <folding>
+            <marker date="1552924481325" expanded="true" signature="161:162" ph="..." />
+            <marker date="1552924481325" expanded="true" signature="491:861" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="18" lean-forward="true" selection-end-line="90" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+            <marker date="1554983778395" expanded="true" signature="1804:1848" ph="..." />
+            <marker date="1554983778395" expanded="true" signature="2061:2631" ph="..." />
+            <marker date="1554983778395" expanded="true" signature="2473:2631" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
