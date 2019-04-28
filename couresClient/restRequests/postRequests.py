@@ -2,6 +2,10 @@ import requests
 import json
 
 
+def updateCource():
+    data = {'programs':'python'}
+    r = requests.post(url='http://127.0.0.1:5000/update_c', json=data)
+
 def sendPostRequest(url, path, data):
     # api-endpoint
     URL = url + path
